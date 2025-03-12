@@ -1,0 +1,22 @@
+─ │ ┌ ┐ └ ┘ ├ ┤ ┬ ┴ ┼ ┏ ┓ ┗ ┛ ┣ ┫ ┳ ┻ ╋
+═ ║ ╔ ╗ ╚ ╝ ╠ ╣ ╦ ╩ ╬
+━ ┃
+╱ ╲
+█ ▄ ▀ ░ ▒ ▓
+→ ← ↑ ↓ ⇒ ⇐ ⇑ ⇓ ↔ ↕ ↩ ↪
+▲ △ ▼ ▽ ◀ ◁ ▶ ▷
+● ○ •
+╒╕
+
+note;
+no None as default parameter. handle it.
+
+position:
+f"Invalid position. Position must be within 
+the screen size ({x}, {y}) vs {self.width}x{self.height}"
+
+type:
+f"Invalid display. Expected Display, got {type(display)!r}"
+
+invalid value (limit value):
+f"Invalid style value of {style!r}: expected 1, 2, 3, 4, 5, or 8 characters."
