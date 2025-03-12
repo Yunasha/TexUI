@@ -1,2 +1,2 @@
 # TexUI
-python library
+Python library for drawing terminal application display
