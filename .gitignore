@@ -3,3 +3,4 @@
 !.gitkeep
 *~
 testing/
+__pycache__/
